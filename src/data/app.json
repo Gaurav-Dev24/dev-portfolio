@@ -11,41 +11,37 @@
     },
     "profile": {
         "avatar": "/img/face-1.png",
-        "name": "Artur Carter",
-        "role": "Front-end Deweloper <br>Ui/UX Designer",
+        "name": "Gaurav Dev",
+        "role": "Front-end Developer <br>Ui/UX Designer",
         "info": [
             {
                 "label": "Residence",
-                "value": "Canada"
+                "value": "India"
             },
             {
                 "label": "City",
-                "value": "Toronto"
+                "value": "Kolkata"
             },
             {
                 "label": "Age",
-                "value": "26"
+                "value": "28"
             }
         ],
         "skills": {
             "language": [
                 {
-                    "label": "French",
+                    "label": "English",
                     "value": "1"
                 },
                 {
-                    "label": "English",
-                    "value": "0.9"
-                },
-                {
-                    "label": "Spanish",
-                    "value": "0.7"
+                    "label": "Hindi",
+                    "value": "1"
                 }
             ],
             "hard": [
                 {
                     "label": "html",
-                    "value": "0.9"
+                    "value": "0.95"
                 },
                 {
                     "label": "CSS",
@@ -53,33 +49,33 @@
                 },
                 {
                     "label": "Js",
+                    "value": "0.85"
+                },
+                {
+                    "label": "React",
                     "value": "0.75"
                 },
                 {
-                    "label": "PHP",
+                    "label": "Next",
                     "value": "0.65"
-                },
-                {
-                    "label": "Wordpress",
-                    "value": "0.85"
                 }
             ],
             "knowledge": [
                 {
-                    "label": "Bootstrap, Materialize"
+                    "label": "Tailwind CSS, Bootstrap, Materialize"
                 },
                 {
                     "label": "Stylus, Sass, Less"
                 },
                 {
-                    "label": "Gulp, Webpack, Grunt"
+                    "label": "Parcel, Webpack"
                 },
                 {
                     "label": "GIT knowledge"
                 }
             ]
         },
-        "resume": "/files/cv.txt"
+        "resume": "/files/Gaurav_Dev_Frontend_Developer.pdf"
     },
     "header": {
         "topBackground": "/img/bg.jpg",
@@ -157,27 +153,17 @@
     },
     "social": [
         {
-            "link": "https://linkedin.com",
+            "link": "https://www.linkedin.com/in/gaurav-dev-031a65141/",
             "icon": "fab fa-linkedin-in",
             "title": "Linkedin"
         },
         {
-            "link": "https://dribbble.com",
-            "icon": "fab fa-dribbble",
-            "title": "Dribbble"
-        },
-        {
-            "link": "https://behance.com",
-            "icon": "fab fa-behance",
-            "title": "Behance"
-        },
-        {
-            "link": "https://github.com",
+            "link": "https://github.com/Gaurav-Dev24",
             "icon": "fab fa-github",
             "title": "Github"
         },
         {
-            "link": "https://twitter.com",
+            "link": "https://x.com/dev828028?t=UDE0Fk26R2Vfpn25D1vnRQ&s=08",
             "icon": "fab fa-twitter",
             "title": "Twitter"
         }

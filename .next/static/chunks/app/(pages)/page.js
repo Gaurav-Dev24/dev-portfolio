@@ -1653,7 +1653,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"items":[{"label":"Years Experience",
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"bg_image":"/img/bg.jpg","title":"Discover my Amazing <br/>Art Space!","subtitle":{"start":"&lt;<i>code</i>&gt; I build ","rotates":["web interfaces.","ios and android applications.","design mocups.","automation tools."],"end":"&lt;/<i>code</i>&gt;"},"button":{"link":"/projects","label":"Explore now"},"photo":{"url":"img/face-2.png","alt":"Artur Carter"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"bg_image":"/img/bg.jpg","title":"Discover my Amazing <br/>Work Space!","subtitle":{"start":"&lt;<i>code</i>&gt; I build ","rotates":["web interfaces.","web applications.","design figma & wireframes."],"end":"&lt;/<i>code</i>&gt;"},"button":{"link":"/projects","label":"Explore now"},"photo":{"url":"img/face-2.png","alt":"Gaurav Dev"}}');
 
 /***/ }),
 
