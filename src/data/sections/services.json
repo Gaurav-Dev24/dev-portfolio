@@ -1,45 +1,45 @@
 {
-    "title": "My Services",
-    "items": [
-        {
-            "title": "Web Development",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.",
-            "button": {
-                "link": "/contact",
-                "label": "Order now"
-            }
-        },
-        {
-            "title": "UI/UX Design",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.",
-            "button": {
-                "link": "/contact",
-                "label": "Order now"
-            }
-        },
-        {
-            "title": "Ecommerce",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.",
-            "button": {
-                "link": "/contact",
-                "label": "Order now"
-            }
-        },
-        {
-            "title": "Wordpress",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.",
-            "button": {
-                "link": "/contact",
-                "label": "Order now"
-            }
-        },
-        {
-            "title": "Figma Design",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.",
-            "button": {
-                "link": "/contact",
-                "label": "Order now"
-            }
-        }
-    ]
+  "title": "My Services",
+  "items": [
+    {
+      "title": "Web Development",
+      "text": "Building responsive, high-performance web applications with React.js/Next.js, ensuring seamless user experience, modern UI/UX, and scalable architecture.",
+      "button": {
+        "link": "/contact",
+        "label": "Order now"
+      }
+    },
+    {
+      "title": "UI/UX Design",
+      "text": "Crafting intuitive, user-centric UI/UX designs with modern aesthetics, ensuring seamless navigation, accessibility, and engaging digital experiences.",
+      "button": {
+        "link": "/contact",
+        "label": "Order now"
+      }
+    },
+    {
+      "title": "Ecommerce",
+      "text": "Developing high-performance eCommerce websites with React, ensuring smooth user experience, secure transactions, and scalable, conversion-focused design.",
+      "button": {
+        "link": "/contact",
+        "label": "Order now"
+      }
+    },
+    {
+      "title": "Wordpress",
+      "text": "Designing and developing dynamic, SEO-friendly WordPress websites with custom themes, plugins, and seamless user experience for businesses and brands.",
+      "button": {
+        "link": "/contact",
+        "label": "Order now"
+      }
+    },
+    {
+      "title": "Figma Design",
+      "text": "Creating pixel-perfect, user-friendly UI/UX designs in Figma with modern aesthetics, seamless navigation, and a focus on user engagement and accessibility.",
+      "button": {
+        "link": "/contact",
+        "label": "Order now"
+      }
+    }
+  ]
 }
