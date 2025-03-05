@@ -18,7 +18,7 @@
             }
         },
         {
-            "title": "Sound Design",
+            "title": "Ecommerce",
             "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.",
             "button": {
                 "link": "/contact",
@@ -26,7 +26,7 @@
             }
         },
         {
-            "title": "Game Design",
+            "title": "Wordpress",
             "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.",
             "button": {
                 "link": "/contact",
@@ -34,7 +34,7 @@
             }
         },
         {
-            "title": "Advertising",
+            "title": "Figma Design",
             "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.",
             "button": {
                 "link": "/contact",

@@ -1642,7 +1642,7 @@ eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* har
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"items":[{"label":"Years Experience","value":"10","valueAfter":"+"},{"label":"Completed Projects","value":"143","valueAfter":""},{"label":"Happy Customers","value":"114","valueAfter":""},{"label":"Honors and Awards","value":"20","valueAfter":"+"}]}');
+module.exports = /*#__PURE__*/JSON.parse('{"items":[{"label":"Years Experience","value":"1","valueAfter":"+"},{"label":"Completed Projects","value":"14","valueAfter":""},{"label":"Happy Customers","value":"114","valueAfter":""},{"label":"Honors and Awards","value":"2","valueAfter":"+"}]}');
 
 /***/ }),
 

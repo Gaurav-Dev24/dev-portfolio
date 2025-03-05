@@ -2,12 +2,12 @@
     "items": [
         {
             "label": "Years Experience",
-            "value": "10",
+            "value": "1",
             "valueAfter": "+"
         },
         {
             "label": "Completed Projects",
-            "value": "143",
+            "value": "14",
             "valueAfter": ""
         },
         {
@@ -17,7 +17,7 @@
         },
         {
             "label": "Honors and Awards",
-            "value": "20",
+            "value": "2",
             "valueAfter": "+"
         }
     ]

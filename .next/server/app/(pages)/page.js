@@ -509,7 +509,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"settings":{"siteName":"Arter","siteD
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"items":[{"label":"Years Experience","value":"10","valueAfter":"+"},{"label":"Completed Projects","value":"143","valueAfter":""},{"label":"Happy Customers","value":"114","valueAfter":""},{"label":"Honors and Awards","value":"20","valueAfter":"+"}]}');
+module.exports = /*#__PURE__*/JSON.parse('{"items":[{"label":"Years Experience","value":"1","valueAfter":"+"},{"label":"Completed Projects","value":"14","valueAfter":""},{"label":"Happy Customers","value":"114","valueAfter":""},{"label":"Honors and Awards","value":"2","valueAfter":"+"}]}');
 
 /***/ }),
 
@@ -553,7 +553,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"title":"Price Plans","items":[{"titl
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"title":"My Services","items":[{"title":"Web Development","text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.","button":{"link":"/contact","label":"Order now"}},{"title":"UI/UX Design","text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.","button":{"link":"/contact","label":"Order now"}},{"title":"Sound Design","text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.","button":{"link":"/contact","label":"Order now"}},{"title":"Game Design","text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.","button":{"link":"/contact","label":"Order now"}},{"title":"Advertising","text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.","button":{"link":"/contact","label":"Order now"}}]}');
+module.exports = /*#__PURE__*/JSON.parse('{"title":"My Services","items":[{"title":"Web Development","text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.","button":{"link":"/contact","label":"Order now"}},{"title":"UI/UX Design","text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.","button":{"link":"/contact","label":"Order now"}},{"title":"Ecommerce","text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.","button":{"link":"/contact","label":"Order now"}},{"title":"Wordpress","text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.","button":{"link":"/contact","label":"Order now"}},{"title":"Figma Design","text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.","button":{"link":"/contact","label":"Order now"}}]}');
 
 /***/ }),
 
