@@ -1,4 +1,4 @@
-// File: D:\dev-folio\src\app\(pages)\page.jsx
+// File: /home/gauravdev/Gaurav-Backup-Files/dev-folio/src/app/(pages)/page.jsx
 import * as entry from '../../../../src/app/(pages)/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
